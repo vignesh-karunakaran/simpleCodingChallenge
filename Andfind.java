@@ -1,5 +1,5 @@
 package Booking;
-
+// Swapping the words in a strings with keyword useing and
 public class Andfind {
 
 	/**
